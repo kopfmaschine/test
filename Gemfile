@@ -8,7 +8,10 @@ gem 'rails', '3.0.9'
 gem 'sqlite3'
 
 # Use unicorn as the web server
-# gem 'unicorn'
+gem 'unicorn'
+
+gem 'rspec'
+gem 'rspec-rails'
 
 # Deploy with Capistrano
 # gem 'capistrano'
